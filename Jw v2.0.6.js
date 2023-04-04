@@ -10,7 +10,7 @@
 
 var jwDefaults = {
   "aspectratio": "16:9",
-  "autostart": true,
+  "autostart": false,
   "controls": true,
   "displaydescription": true,
   "displaytitle": true,
@@ -23,7 +23,7 @@ var jwDefaults = {
     "margin": "10",
     "position": "top-right"
   },
-  "mute": false,
+  "mute": true,
   "ph": 1,
   "pid": "Jq6HIbgz",
   "playbackRateControls": false,
