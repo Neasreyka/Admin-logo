@@ -23,7 +23,7 @@ var jwDefaults = {
     "margin": "10",
     "position": "top-right"
   },
-  "mute": true,
+  "mute": false,
   "ph": 1,
   "pid": "Jq6HIbgz",
   "playbackRateControls": false,
