@@ -2,12 +2,12 @@ const vidElem = document.querySelector('#jw-player');
 const vidJw = jwplayer('jw-player');
 const movieElem = document.querySelector('#movie');
 const movieJw = jwplayer('movie');
-const logoImage = `https://blogger.googleusercontent.com/img/a/AVvXsEgf6x-o1pE5q7vqNKc_v2UERrQbY9Cl5g9AHGxYbFg8y-EolIU8BntTZJYXhBbPPxWhPza9P6aD-T1MYsa0aggi5M8oLZ2sj-zuvTGORgOwsYtdLLyudSpwfnhyGXZ8a2cidsjQ6sb2zCrd4t_Ai54safXFnUOLGdqO3w-Ur1q5yB2HmyjrA0BNqhipRw=s280`;
+const logoImage = `https://i.imgur.com/xNHS5iy.png`;
 const createCustomLogo = () => {
     let logo = {
         file: logoImage,
         hide: false,
-        margin: "20",
+        margin: "10",
         position: "top-right",
         link: homePageUrl
     }
