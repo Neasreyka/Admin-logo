@@ -11,7 +11,7 @@
 
 var jwDefaults = {
   "aspectratio": "16:9",
-  "autostart": true,
+  "autostart": false,
   "controls": true,
   "displaydescription": true,
   "displaytitle": true,
